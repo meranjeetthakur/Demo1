@@ -1,0 +1,19 @@
+{
+    "name": "shoutlara/demoone",
+    "description": "This is demo 1 package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ranjeet",
+            "email": "meranjeetthakur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ShoutLara\\DemoOne\\": "src/"
+        }
+    }
+}
